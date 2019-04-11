@@ -16,6 +16,6 @@
 	du/dt = (r-1)u - (1 - 2*((d/dx)^2)) + (d/dx)^4))u + b_2*u^2 - u^3
 
 #Though one can play around changing SH23 to SH35
-##This is a very basic code from which I start learning about spectral and pseudo spectral methods.
+##This is a very basic code from which I started learning about spectral and pseudo spectral methods.
 
 Reference: 1d-Kuramoto-Sivashinksy equation (will be shortly uploaded https://github.com/PratikAghor)
